@@ -1,0 +1,10 @@
+﻿  lab17.cpp
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(23,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(29,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(38,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(38,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(33,12): warning C4101: 'y': unreferenced local variable
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(33,9): warning C4101: 'x': unreferenced local variable
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(74,33): error C2664: 'float IamLazy(float *(__cdecl *)(float),double)': cannot convert argument 1 from 'float (__cdecl *)(float)' to 'float *(__cdecl *)(float)'
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(74,26): message : None of the functions with this name in scope match the target type
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба17АП\lab17\lab17.cpp(27,7): message : see declaration of 'IamLazy'

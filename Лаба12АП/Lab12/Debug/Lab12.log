@@ -1,0 +1,6 @@
+﻿  Lab12.cpp
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба12АП\Lab12\Lab12.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба12АП\Lab12\Lab12.cpp(30,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба12АП\Lab12\Lab12.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АП\Лаба12АП\Lab12\Lab12.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+  Lab12.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АП\Лаба12АП\Lab12\Debug\Lab12.exe
